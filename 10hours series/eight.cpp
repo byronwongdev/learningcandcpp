@@ -17,6 +17,9 @@ int main() // main function
     char z = 127;       //largest posibility
     cout << z << std::endl;
 
+    signed char w = 129;
+    cout << w << std::endl;
+
     unsigned char v = 129;
     cout << v << std::endl;
 }
