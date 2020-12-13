@@ -12,5 +12,6 @@ int main() // main function
     cout << "Hello\nThere" << std::endl ;
     cout << "Hello\vThere" << std::endl ;
     cout << "Hello\aThere" << std::endl ;
+    cout << "Hello\0There" << std::endl ;
 }
 
